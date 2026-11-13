@@ -19,7 +19,7 @@ I enjoy building practical software projects, strengthening my problem-solving s
 ## Featured projects
 
 1. **Legal Document Extractive Summariser (LDES)** — Extracts key sentences and information from legal documents.
-   - Live app: https://legallens-0xrs.onrender.com/
+   - Live app: https://legal-document-extractive-summariser-kbvg.onrender.com/
    - Source: https://github.com/tassy-ak/legal-document-extractive-summariser
 2. **Intelligent Intrusion Detection and Prevention System (IDPS)** — A web-based security project focused on threat monitoring and mitigation.
    - Live app: https://idpsi.lovable.app/
@@ -35,7 +35,7 @@ I enjoy building practical software projects, strengthening my problem-solving s
 ## Contact
 
 - Email: tasmiyaazeez1@gmail.com
-- LinkedIn: https://www.linkedin.com/in/tasmiya-fathima-azeez/
+- LinkedIn: https://www.linkedin.com/in/tasmiya-fathima-azeez-013a002a3
 
 ## Run locally
 
